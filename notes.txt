@@ -1,0 +1,28 @@
+Types of Javascript
+Client side javascript runs on on the client side (web browsers) used enhance interactivity and functionality of a page.
+Server side javascript node.js runs on the server side, APIs
+ASynchronous javascript execution of multiple operations concurrently without affectiing your code execution.
+
+Variables - allows to store, manipulate and reuse values in your program., var, let and const.
+
+Data types - allows us to represent different kind of values for your program.
+
+Number - numberic value; integer - 18, float - 18.09
+Strings - characters enclosed in quotes '' or ""
+boolean - truthy or falsy
+Undefined - declared variable, no value attached to it.
+Null - absence of value.
+
+object - collection of key-value pairs, so where keys are strings(symbols) and values are any data types.
+array - collections of values, can be of any data type.
+function - reusable block of code, that performs a specific task.
+
+Conditional statements used to make desicions in your code based on certain conditions.
+if statement - used to execute a block of code if a specified condition is true.
+if...else statement - used to execute a block of code if a specified condition is true and another block of code if condition if false.
+if...else if...else statement - multiple conditions.
+
+functions reusable block of code that performs a specific task.
+invoking a function - meaning calling a function.
+
+anonymous function - functions that dont have names to them.
